@@ -16,4 +16,5 @@ Link for Blog Post:
 https://medium.com/@nayabf52/covid-19-in-pakistan-dc55b28a58b6?source=friends_link&sk=e2454fbb951fd888cf4b547efc60c799
 
 For Visualization:
+
 View the project file COVID-19 Project.pbix.
