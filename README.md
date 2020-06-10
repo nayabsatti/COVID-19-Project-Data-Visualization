@@ -1,4 +1,4 @@
-# COVID-19-Project-Data-Visualization:
+# COVID-19-Project-Data-Visualization
 This project consists of Visuallization of spread of corona virus in Pakistan.
 
 Corona virus (Covid-19) is a newly discovered infectious disease. It was first discovered in Wuhan, China, at the end of December 2019. 
